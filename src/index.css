@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.container {
+  padding: 0px 100px;
+}
+
+.rtl {
+  direction: rtl;
+}
