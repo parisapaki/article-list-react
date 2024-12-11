@@ -1,0 +1,49 @@
+{
+    "articles":{
+        "status":true,
+        "data":[
+            {
+                "id":1,
+                "title":"عنوان 1",
+                "readingTime":6
+            },
+            {
+                "id":2,
+                "title":"عنوان 2",
+                "readingTime":1
+            },
+            {
+                "id":3,
+                "title":"عنوان 3",
+                "readingTime":5
+            },
+            {
+                "id":4,
+                "title":"عنوان 4",
+                "readingTime":5
+            },
+            {
+                "id":5,
+                "title":"عنوان 5",
+                "readingTime":3
+            },
+            {
+                "id":6,
+                "title":"عنوان 6",
+                "readingTime":5
+            },
+            {
+                "id":7,
+                "title":"عنوان 7",
+                "readingTime":5
+            },
+            {
+                "id":8,
+                "title":"عنوان 8",
+                "readingTime":4
+            }
+
+        ]
+
+    }
+}
