@@ -21,7 +21,7 @@ useEffect(()=>{
 
     return(
         <div className="">
-            <Navbar />
+            
             <div className="container my-16">
             <h2 className="pb-5">مقالات جدید</h2>
             <div className="grid grid-cols-4 gap-5">
