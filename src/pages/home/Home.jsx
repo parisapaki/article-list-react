@@ -2,6 +2,7 @@ import Article from "../../components/article/Article";
 import Navbar from "../../components/navbar/Navbar";
 import { useState , useEffect } from "react";
 import axios from "axios";
+import Footer from "../../components/footer/Footer";
 
 export default function Home(){
 
@@ -31,6 +32,8 @@ useEffect(()=>{
 
             </div>
             </div>
+
+            <Footer />
 
         </div>
     )
