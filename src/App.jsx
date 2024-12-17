@@ -15,6 +15,7 @@ export default function App() {
       <Route  path="newarticle" element={<NewArticle />}/>
       <Route  path="articles" element={<Articles />}/>
       <Route  path="about" element={<About />}/>
+      <Route path="articles/:id" element={<Articles />} />
     </Routes>
     <Footer />
     
