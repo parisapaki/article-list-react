@@ -1,4 +1,3 @@
-import javaScript from "../../assets/images/JavaScript.png"
 export default function Article(props){
 
     return(

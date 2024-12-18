@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import NewArticle from "../../pages/newArticle/NewArticle"
 export default function Navbar(){
 
     return(
